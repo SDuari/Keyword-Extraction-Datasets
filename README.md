@@ -2,9 +2,11 @@
 
 This repository contains seven annotated datasets for automatic keyword extraction task. Every dataset contains a document (.txt or .abstr) and its corresponding gold-standard keywords list (.key or .uncontr). These datasets were used for our study of supervised and unsupervised keyword extraction. Following are the links to our published works.
 
-1. "sCAKE: Semantic Connectivity Aware Keyword Extraction" [![DOI:10.1016/j.ins.2018.10.034](https://zenodo.org/badge/DOI/10.1016/j.ins.2018.10.034.svg)](https://doi.org/10.1016/j.ins.2018.10.034) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](http://www.sciencedirect.com/science/article/pii/S0020025518308521) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1811.10831.pdf)
+1. **sCAKE: Semantic Connectivity Aware Keyword Extraction**
+[![DOI:10.1016/j.ins.2018.10.034](https://zenodo.org/badge/DOI/10.1016/j.ins.2018.10.034.svg)](https://doi.org/10.1016/j.ins.2018.10.034) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](http://www.sciencedirect.com/science/article/pii/S0020025518308521) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1811.10831.pdf)
 
-2. "Complex Network based Supervised Keyword Extractor."[![DOI:10.1016/j.eswa.2019.112876](https://zenodo.org/badge/DOI/10.1016/j.eswa.2019.112876.svg)](https://doi.org/10.1016/j.eswa.2019.112876) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](https://www.sciencedirect.com/science/article/pii/S095741741930586X) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1909.12009.pdf)
+2. **Complex Network based Supervised Keyword Extractor.**
+[![DOI:10.1016/j.eswa.2019.112876](https://zenodo.org/badge/DOI/10.1016/j.eswa.2019.112876.svg)](https://doi.org/10.1016/j.eswa.2019.112876) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](https://www.sciencedirect.com/science/article/pii/S095741741930586X) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1909.12009.pdf)
 
 
 Following are the datasets and the original papers which proposed them.
@@ -14,7 +16,7 @@ Following are the datasets and the original papers which proposed them.
 3. **Marujo2012**: News articles. Originally downloaded from https://github.com/snkim/AutomaticKeyphraseExtraction.
 4. **Krapivin2012**: ACM full papers. Originally downloaded from https://github.com/snkim/AutomaticKeyphraseExtraction.
 5. **Semeval2010**: ACM full papers. Originally downloaded from https://github.com/snkim/AutomaticKeyphraseExtraction.
-6. **NLM500**: PubMed documents. Originally downloaded from https://github.com/zelandiya/keyword-extraction-datasets. ***Created for abstractive KE task.***
+6. **NLM500**: PubMed documents. Originally downloaded from https://github.com/zelandiya/keyword-extraction-datasets. *Created for abstractive KE task.*
 
 ## Dataset details and collection statistics
 
@@ -22,7 +24,7 @@ Following are the datasets and the original papers which proposed them.
 | :---         |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |          :--- |
 | Hulth2003   | 1500 |  129   | 23 | 10 | 90.07 | Abstracts from *Inspec* dataset
 | WWW     | 1248 |  174 | 9 | 5 | 64.97 | Abstracts from CS articles published in KDD conference
-| KDD    | 704 | 204 | 8  4 | 68.12 | Abstracts from CS articles published in WWW conference
+| KDD    | 704 | 204 | 8 | 4 | 68.12 | Abstracts from CS articles published in WWW conference
 | Marujo2012     | 450 | 427 | 69 | 48 | 99.31 | Online news articles
 | Krapivin2009     | 2304 | 7961 | 11 | 5 | 96.91 | Full scientific articles from ACM
 | SemEval2010     | 244 |  8085 | 34 | 16 | 95.89 | Full scientific articles from ACM, created for SemEval2010 Task 5
@@ -52,54 +54,54 @@ organization = "ACL"
 ### Krapivin2009
 ```tex 
 @article{krapivin2009large,
-title="Large Dataset for Keyphrases Extraction",
-author="Krapivin, Mikalai and Autaeu, Aliaksandr and Marchese, Maurizio",
-journal="Technical Report DISI-09-055",
-year="2009",
-publisher="University of Trento"
+title = "Large Dataset for Keyphrases Extraction",
+author = "Krapivin, Mikalai and Autaeu, Aliaksandr and Marchese, Maurizio",
+journal = "Technical Report DISI-09-055",
+year = "2009",
+publisher = "University of Trento"
 }
 ```
 
 ### NLM500
 ```tex 
 @inproceedings{aronson2000nlm,
-title="The NLM Indexing Initiative",
-author="Aronson and others",
-booktitle="Proceedings of the AMIA Symposium",
-pages="17",
-year="2000",
-organization="American Medical Informatics Association"
+title = "The NLM Indexing Initiative",
+author = "Aronson and others",
+booktitle = "Proceedings of the AMIA Symposium",
+pages = "17",
+year = "2000",
+organization = "American Medical Informatics Association"
 }
 ```
 
 ### SemEval2010
 ```tex
 @inproceedings{kim2010semeval,
-title="Semeval-2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles",
-author="Kim, Su Nam and Medelyan, Olena and Kan, Min-Yen and Baldwin, Timothy",
-booktitle="Proceedings of the 5th International Workshop on Semantic Evaluation",
-pages="21--26",
-year="2010",
-organization="Association for Computational Linguistics"
+title = "Semeval-2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles",
+author = "Kim, Su Nam and Medelyan, Olena and Kan, Min-Yen and Baldwin, Timothy",
+booktitle = "Proceedings of the 5th International Workshop on Semantic Evaluation",
+pages = "21--26",
+year = "2010",
+organization = "Association for Computational Linguistics"
 }
 ```
 
 ### Marujo2012
 ```tex
 @inproceedings{marujo2012supervised,
-title="Supervised Topical Key Phrase Extraction of News Stories using Crowdsourcing, Light Filtering and Co-reference Normalization",
-author="Marujo, Lu{\'\i}s and Gershman, Anatole and Carbonell, Jaime and Frederking, Robert and Neto, Joa{\`I}ƒo P",
-booktitle="Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC-2012)",
-year="2012"
+title = "Supervised Topical Key Phrase Extraction of News Stories using Crowdsourcing, Light Filtering and Co-reference Normalization",
+author = "Marujo, Lu{\'\i}s and Gershman, Anatole and Carbonell, Jaime and Frederking, Robert and Neto, Joa{\`I}ƒo P",
+booktitle = "Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC-2012)",
+year = "2012"
 }
 ```
 
 ### WWW and KDD
 ```tex
 @inproceedings{gollapalli2014extracting,
-title={Extracting keyphrases from research papers using citation networks},
-author={Gollapalli, Sujatha Das and Caragea, Cornelia},
-booktitle={Twenty-Eighth AAAI Conference on Artificial Intelligence},
-year={2014}
+title = {Extracting keyphrases from research papers using citation networks},
+author = {Gollapalli, Sujatha Das and Caragea, Cornelia},
+booktitle = {Twenty-Eighth AAAI Conference on Artificial Intelligence},
+year = {2014}
 }
 ```
