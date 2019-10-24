@@ -15,56 +15,56 @@ Following are the datasets and the original papers which proposed them.
 ### Hulth2003
 ```tex
 @inproceedings{hulth2003improved,
-title="{Improved Automatic Keyword Extraction given more Linguistic Knowledge}",
-author={Hulth, Anette},
-booktitle={Proceedings of the 2003 Conference on EMNLP},
-pages={216--223},
-year={2003},
-organization={ACL}
+title="Improved Automatic Keyword Extraction given more Linguistic Knowledge",
+author="Hulth, Anette",
+booktitle="Proceedings of the 2003 Conference on EMNLP",
+pages="216--223",
+year="2003",
+organization="ACL"
 }
 ```
 
 ### Krapivin2009
 ```tex 
 @article{krapivin2009large,
-title="{Large Dataset for Keyphrases Extraction}",
-author={Krapivin, Mikalai and Autaeu, Aliaksandr and Marchese, Maurizio},
-journal={Technical Report DISI-09-055},
-year={2009},
-publisher={University of Trento}
+title="Large Dataset for Keyphrases Extraction",
+author="Krapivin, Mikalai and Autaeu, Aliaksandr and Marchese, Maurizio",
+journal="Technical Report DISI-09-055",
+year="2009",
+publisher="University of Trento"
 }
 ```
 
 ### NLM500
 ```tex 
 @inproceedings{aronson2000nlm,
-title="{The NLM Indexing Initiative}",
-author={Aronson and others},
-booktitle={Proceedings of the AMIA Symposium},
-pages={17},
-year={2000},
-organization={American Medical Informatics Association}
+title="The NLM Indexing Initiative",
+author="Aronson and others",
+booktitle="Proceedings of the AMIA Symposium",
+pages="17",
+year="2000",
+organization="American Medical Informatics Association"
 }
 ```
 
 ### SemEval2010
 ```tex
 @inproceedings{kim2010semeval,
-title="{Semeval-2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles}",
-author={Kim, Su Nam and Medelyan, Olena and Kan, Min-Yen and Baldwin, Timothy},
-booktitle={Proceedings of the 5th International Workshop on Semantic Evaluation},
-pages={21--26},
-year={2010},
-organization={Association for Computational Linguistics}
+title="Semeval-2010 Task 5: Automatic Keyphrase Extraction from Scientific Articles",
+author="Kim, Su Nam and Medelyan, Olena and Kan, Min-Yen and Baldwin, Timothy",
+booktitle="Proceedings of the 5th International Workshop on Semantic Evaluation",
+pages="21--26",
+year="2010",
+organization="Association for Computational Linguistics"
 }
 ```
 
 ### Marujo2012
 ```tex
 @inproceedings{marujo2012supervised,
-title={Supervised Topical Key Phrase Extraction of News Stories using Crowdsourcing, Light Filtering and Co-reference Normalization},
-author={Marujo, Lu{\'\i}s and Gershman, Anatole and Carbonell, Jaime and Frederking, Robert and Neto, Joa{\`I}ƒo P},
-booktitle={Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC-2012)},
-year={2012}
+title="Supervised Topical Key Phrase Extraction of News Stories using Crowdsourcing, Light Filtering and Co-reference Normalization",
+author="Marujo, Lu{\'\i}s and Gershman, Anatole and Carbonell, Jaime and Frederking, Robert and Neto, Joa{\`I}ƒo P",
+booktitle="Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC-2012)",
+year="2012"
 }
 ```
