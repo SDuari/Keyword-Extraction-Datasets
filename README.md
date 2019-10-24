@@ -68,3 +68,6 @@ booktitle="Proceedings of the Eighth International Conference on Language Resour
 year="2012"
 }
 ```
+
+
+[![DOI:10.1007/978-3-319-76207-4_15](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-3-319-76207-4_15)
