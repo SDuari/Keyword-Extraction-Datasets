@@ -19,7 +19,7 @@ Following are the datasets and the original papers which proposed them.
 ## Dataset details and collection statistics
 
 | Dataset | \|D\| | L<sub>avg</sub> | N<sub>avg</sub> | K<sub>avg</sub> | KP<sub>avg</sub>| Description |
-| :---         |     :---:      |     :---:      |     :---:      |     :---:      |          :--- |
+| :---         |     :---:      |     :---:      |     :---:      |     :---:      |     :---:      |          :--- |
 | Hulth2003   | 1500 |  129   | 23 | 10 | 90.07 | Abstracts from *Inspec* dataset
 | WWW     | 1248 |  174 | 9 | 5 | 64.97 | Abstracts from CS articles published in KDD conference
 | KDD    | 704 | 204 | 8  4 | 68.12 | Abstracts from CS articles published in WWW conference
