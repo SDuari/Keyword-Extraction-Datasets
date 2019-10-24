@@ -20,8 +20,7 @@ Citations:
   pages={216--223},
   year={2003},
   organization={ACL}
-}
-```
+}```
 
 2.```tex 
   @article{krapivin2009large,
@@ -40,8 +39,7 @@ Citations:
   pages={17},
   year={2000},
   organization={American Medical Informatics Association}
-}
-```
+}```
 
 4.```tex
   @inproceedings{kim2010semeval,
