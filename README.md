@@ -3,9 +3,11 @@
 This repository contains seven annotated datasets for automatic keyword extraction task. Every dataset contains a document (.txt or .abstr) and its corresponding gold-standard keywords list (.key or .uncontr). These datasets were used for our study of supervised and unsupervised keyword extraction. Following are the links to our published works.
 
 1. **sCAKE: Semantic Connectivity Aware Keyword Extraction**
+
 [![DOI:10.1016/j.ins.2018.10.034](https://zenodo.org/badge/DOI/10.1016/j.ins.2018.10.034.svg)](https://doi.org/10.1016/j.ins.2018.10.034) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](http://www.sciencedirect.com/science/article/pii/S0020025518308521) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1811.10831.pdf)
 
 2. **Complex Network based Supervised Keyword Extractor.**
+
 [![DOI:10.1016/j.eswa.2019.112876](https://zenodo.org/badge/DOI/10.1016/j.eswa.2019.112876.svg)](https://doi.org/10.1016/j.eswa.2019.112876) [![Generic badge](https://img.shields.io/badge/Full%20Article-ScienceDirect-orange.svg)](https://www.sciencedirect.com/science/article/pii/S095741741930586X) [![Generic badge](https://img.shields.io/badge/Preprint-arXiv-orange.svg)](https://arxiv.org/pdf/1909.12009.pdf)
 
 
@@ -99,9 +101,9 @@ year = "2012"
 ### WWW and KDD
 ```tex
 @inproceedings{gollapalli2014extracting,
-title = {Extracting keyphrases from research papers using citation networks},
-author = {Gollapalli, Sujatha Das and Caragea, Cornelia},
-booktitle = {Twenty-Eighth AAAI Conference on Artificial Intelligence},
-year = {2014}
+title = "Extracting keyphrases from research papers using citation networks",
+author = "Gollapalli, Sujatha Das and Caragea, Cornelia",
+booktitle = "Twenty-Eighth AAAI Conference on Artificial Intelligence",
+year = "2014"
 }
 ```
